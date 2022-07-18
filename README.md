@@ -37,6 +37,7 @@ Start HolyScan
 - [@CursedCancer](https://www.github.com/CursedCancer)
 
 ## About Me
+
 Hi there,
 
 I am Steven Pereira, aka The Cursed Cancer. I am a penetration tester from India. Apart from hacking, I write true crime blogs and create open source packages mainly about python and cybersecurity. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. You can see a full list of what I am up to on my Github page. If you have found value in something I have created, please feel free to give me a shout out on Twitter.
