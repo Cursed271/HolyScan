@@ -1,6 +1,6 @@
-# ----- IP Scan ---------------------------------------------------------------------------------------------------- #
+# ----- HolyScan --------------------------------------------------------------------------------------------------- #
 
-# IP Scan is a ping sweeper written in python that lists all the available hosts on the network
+# HolyScan is a portscanner written in python that lists all the open ports and running services on the host.
 # Created by Steven Pereira aka Cursed Cancer
 # Github: https://github.com/CursedCancer
 
